@@ -1,0 +1,5 @@
+- Jacob Foster is the leading customer, wo has contributed $8722.67.
+- Electronic generated the highest amount of revenue, that being $25364.23
+- The salaries of all the different departments range from 61000 to 112000. The IT department has the highest salary, being 112000.
+- Tampa is a key location for business.
+-Grocery and Stationary bring in a very low percentage of the total revenue.

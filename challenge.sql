@@ -1,3 +1,6 @@
+/*
+I used SQLTools and SQLite driver to validate the results by matching the names with sales.
+*/
 -- Task 1: Identifying the five customers with the highest lifetme spend
 SELECT 
     c.first_name || ' ' || c.last_name AS customer_full_name,
